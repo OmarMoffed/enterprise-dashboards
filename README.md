@@ -1,14 +1,33 @@
-# 📊 Enterprise BI Dashboards
+## 📷 Dashboard Gallery
 
-> Production-grade Business Intelligence dashboards delivered across **Banking, Government, Education, and Telecom** sectors — built with Power BI, SQL, and scalable data modeling.
+### Telecom Operations Dashboard
 
----
-
-## 🎯 What's In This Repo
-
-A curated portfolio of BI dashboards designed and delivered across enterprise environments. These samples showcase **data visualization, KPI design, and self-service reporting** — from executive scorecards to operational monitoring.
-
+![Telecom Operations](01_telecom_operations_dark.jpg)
 
 ---
 
-⭐ **If you found this useful, consider giving it a star!**
+### Sales Performance Dashboard
+
+![Sales Performance](02_sales_performance_light.jpg)
+
+---
+
+### Government Statistical Dashboard
+
+![Government Dashboard](03_government_statistical_arabic.jpg)
+
+---
+
+### Sales Performance (Dark Theme)
+
+![Sales Dashboard Dark](04_sales_performance_dark.jpg)
+
+---
+
+### Operational Processing Dashboard
+
+![Operational Processing](05_operational_processing_arabic.jpg)
+
+---
+
+⭐ If you found this useful, consider giving it a star.
